@@ -1,4 +1,4 @@
-# global-wealth-human-capital-dynamics-dashboard
+# Global-wealth-human-capital-dynamics-dashboard
 This repository showcases the development of a professional-grade interactive dashboard that visualizes global wealth distribution, human capital trends, and natural resource dynamics. The dashboard is designed to provide actionable insights for policymakers, educators, and economic analysts, enabling them to make informed decisions and gain a deeper understanding of the complex interplay between various economic factors on a global scale
 
 **Features**
